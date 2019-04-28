@@ -1,0 +1,7 @@
+mavros/libmavconn
+/home/chris/school/ros_catkin/devel/.private/libmavconn/cmake.lock /home/chris/school/ros_catkin/devel/./cmake.lock
+/home/chris/school/ros_catkin/devel/.private/libmavconn/lib/libmavconn.so /home/chris/school/ros_catkin/devel/lib/libmavconn.so
+/home/chris/school/ros_catkin/devel/.private/libmavconn/lib/pkgconfig/libmavconn.pc /home/chris/school/ros_catkin/devel/lib/pkgconfig/libmavconn.pc
+/home/chris/school/ros_catkin/devel/.private/libmavconn/share/libmavconn/cmake/libmavconn-extras.cmake /home/chris/school/ros_catkin/devel/share/libmavconn/cmake/libmavconn-extras.cmake
+/home/chris/school/ros_catkin/devel/.private/libmavconn/share/libmavconn/cmake/libmavconnConfig.cmake /home/chris/school/ros_catkin/devel/share/libmavconn/cmake/libmavconnConfig.cmake
+/home/chris/school/ros_catkin/devel/.private/libmavconn/share/libmavconn/cmake/libmavconnConfig-version.cmake /home/chris/school/ros_catkin/devel/share/libmavconn/cmake/libmavconnConfig-version.cmake

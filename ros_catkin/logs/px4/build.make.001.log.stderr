@@ -1,0 +1,6 @@
+make[2]: *** No rule to make target '/home/chris/school/ros_catkin/src/Firmware/.gitmodules', needed by 'src/drivers/gps/git_init_devices.stamp'.  Stop.
+make[1]: *** [src/drivers/gps/CMakeFiles/git_gps_devices.dir/all] Error 2
+make[1]: *** Waiting for unfinished jobs....
+make[2]: *** No rule to make target '/home/chris/school/ros_catkin/src/Firmware/.git/index', needed by 'src/lib/version/build_git_version.h'.  Stop.
+make[1]: *** [src/lib/version/CMakeFiles/ver_gen.dir/all] Error 2
+make: *** [all] Error 2

@@ -1,0 +1,5 @@
+video_stabilizer_node
+/home/chris/school/ros_catkin/devel/.private/video_stabilizer_node/cmake.lock /home/chris/school/ros_catkin/devel/./cmake.lock
+/home/chris/school/ros_catkin/devel/.private/video_stabilizer_node/lib/pkgconfig/video_stabilizer_node.pc /home/chris/school/ros_catkin/devel/lib/pkgconfig/video_stabilizer_node.pc
+/home/chris/school/ros_catkin/devel/.private/video_stabilizer_node/share/video_stabilizer_node/cmake/video_stabilizer_nodeConfig.cmake /home/chris/school/ros_catkin/devel/share/video_stabilizer_node/cmake/video_stabilizer_nodeConfig.cmake
+/home/chris/school/ros_catkin/devel/.private/video_stabilizer_node/share/video_stabilizer_node/cmake/video_stabilizer_nodeConfig-version.cmake /home/chris/school/ros_catkin/devel/share/video_stabilizer_node/cmake/video_stabilizer_nodeConfig-version.cmake

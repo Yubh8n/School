@@ -10,9 +10,6 @@ from cv_bridge import CvBridge, CvBridgeError
 roslib.load_manifest('cam_projcet')
 import rospkg
 
-fgbg = cv2.createBackgroundSubtractorKNN()
-kernel = cv2.getStructuringElement(cv2.MORPH_ELLIPSE, (5, 5))
-
 class receiver:
     def __init__(self):
         rospy.init_node('image_shower', anonymous=True)
@@ -26,9 +23,7 @@ class receiver:
         except CvBridgeError as e:
             print(e)
         Light_image = self.enlighten(cv_image)
-        no_background = self.remove_background(cv_image)
-        cv2.imshow("No background image", no_background)
-        cv2.imshow("image", cv_image)
+        cv2.imshow("ros image stream", cv_image)
         cv2.waitKey(1)
 
 #Function needs some doing..
@@ -41,13 +36,6 @@ class receiver:
         final_img = cv2.merge((b, g, r))
         return final_img
         pass
-
-    def remove_background(self, image):
-
-        fgmask = fgbg.apply(image)
-        fgmask = cv2.morphologyEx(fgmask, cv2.MORPH_OPEN, kernel)
-        anded_img = cv2.bitwise_and(image, cv2.merge((fgmask,fgmask,fgmask)))
-        return anded_img
 
 def main(args):
     ic = receiver()

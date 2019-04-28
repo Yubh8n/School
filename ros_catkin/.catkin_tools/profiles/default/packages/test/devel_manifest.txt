@@ -1,0 +1,6 @@
+group4/test
+/home/chris/school/ros_catkin/devel/.private/test/cmake.lock /home/chris/school/ros_catkin/devel/./cmake.lock
+/home/chris/school/ros_catkin/devel/.private/test/lib/pkgconfig/test.pc /home/chris/school/ros_catkin/devel/lib/pkgconfig/test.pc
+/home/chris/school/ros_catkin/devel/.private/test/lib/test/test_node /home/chris/school/ros_catkin/devel/lib/test/test_node
+/home/chris/school/ros_catkin/devel/.private/test/share/test/cmake/testConfig.cmake /home/chris/school/ros_catkin/devel/share/test/cmake/testConfig.cmake
+/home/chris/school/ros_catkin/devel/.private/test/share/test/cmake/testConfig-version.cmake /home/chris/school/ros_catkin/devel/share/test/cmake/testConfig-version.cmake
