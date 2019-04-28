@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/chris/school/ros_catkin/devel/.private/px4/lib/libFlightTaskAutoFollowMe.a  CMakeFiles/FlightTaskAutoFollowMe.dir/FlightTaskAutoFollowMe.cpp.o
+/usr/bin/ranlib /home/chris/school/ros_catkin/devel/.private/px4/lib/libFlightTaskAutoFollowMe.a

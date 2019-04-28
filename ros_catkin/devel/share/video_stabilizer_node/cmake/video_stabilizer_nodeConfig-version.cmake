@@ -1,0 +1,1 @@
+/home/chris/school/ros_catkin/devel/.private/video_stabilizer_node/share/video_stabilizer_node/cmake/video_stabilizer_nodeConfig-version.cmake

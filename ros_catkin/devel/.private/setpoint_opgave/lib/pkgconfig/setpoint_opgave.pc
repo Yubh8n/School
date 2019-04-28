@@ -1,0 +1,8 @@
+prefix=/home/chris/school/ros_catkin/devel/.private/setpoint_opgave
+
+Name: setpoint_opgave
+Description: Description of setpoint_opgave
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/chris/school/ros_catkin/devel/.private/setpoint_opgave/lib 
+Requires: 

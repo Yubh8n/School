@@ -1,0 +1,1 @@
+/home/chris/school/ros_catkin/devel/.private/video_stream_opencv/share/video_stream_opencv/cmake/video_stream_opencvConfig-version.cmake

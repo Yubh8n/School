@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/chris/school/ros_catkin/devel/.private/px4/lib/libdrivers__sf0x__sf0x_tests.a  CMakeFiles/drivers__sf0x__sf0x_tests.dir/SF0XTest.cpp.o CMakeFiles/drivers__sf0x__sf0x_tests.dir/__/sf0x_parser.cpp.o
+/usr/bin/ranlib /home/chris/school/ros_catkin/devel/.private/px4/lib/libdrivers__sf0x__sf0x_tests.a

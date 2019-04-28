@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/chris/school/ros_catkin/devel/.private/px4/lib/libAttitudeControl.a  CMakeFiles/AttitudeControl.dir/AttitudeControl.cpp.o
+/usr/bin/ranlib /home/chris/school/ros_catkin/devel/.private/px4/lib/libAttitudeControl.a

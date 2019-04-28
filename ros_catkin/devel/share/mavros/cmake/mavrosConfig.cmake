@@ -1,0 +1,1 @@
+/home/chris/school/ros_catkin/devel/.private/mavros/share/mavros/cmake/mavrosConfig.cmake

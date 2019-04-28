@@ -1,0 +1,1 @@
+/home/chris/school/ros_catkin/devel/.private/mavlink_lora/share/roseus/ros/mavlink_lora/manifest.l

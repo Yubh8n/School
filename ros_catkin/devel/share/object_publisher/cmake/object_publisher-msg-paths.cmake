@@ -1,0 +1,1 @@
+/home/chris/school/ros_catkin/devel/.private/object_publisher/share/object_publisher/cmake/object_publisher-msg-paths.cmake

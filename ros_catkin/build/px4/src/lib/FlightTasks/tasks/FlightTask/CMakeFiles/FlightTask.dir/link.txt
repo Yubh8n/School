@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/chris/school/ros_catkin/devel/.private/px4/lib/libFlightTask.a  CMakeFiles/FlightTask.dir/FlightTask.cpp.o CMakeFiles/FlightTask.dir/SubscriptionArray.cpp.o
+/usr/bin/ranlib /home/chris/school/ros_catkin/devel/.private/px4/lib/libFlightTask.a

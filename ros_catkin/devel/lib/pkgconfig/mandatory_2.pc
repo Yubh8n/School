@@ -1,0 +1,1 @@
+/home/chris/school/ros_catkin/devel/.private/mandatory_2/lib/pkgconfig/mandatory_2.pc

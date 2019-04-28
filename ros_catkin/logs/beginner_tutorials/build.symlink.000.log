@@ -1,0 +1,4 @@
+Symlinking /home/chris/school/ros_catkin/devel/lib/beginner_tutorials/talker
+Symlinking /home/chris/school/ros_catkin/devel/lib/pkgconfig/beginner_tutorials.pc
+Symlinking /home/chris/school/ros_catkin/devel/share/beginner_tutorials/cmake/beginner_tutorialsConfig.cmake
+Symlinking /home/chris/school/ros_catkin/devel/share/beginner_tutorials/cmake/beginner_tutorialsConfig-version.cmake

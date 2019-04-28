@@ -1,0 +1,1 @@
+/home/chris/school/ros_catkin/devel/.private/mav_planning_msgs/share/roseus/ros/mav_planning_msgs/msg/Point2D.l

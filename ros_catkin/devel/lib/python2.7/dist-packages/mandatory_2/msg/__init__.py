@@ -1,0 +1,1 @@
+/home/chris/school/ros_catkin/devel/.private/mandatory_2/lib/python2.7/dist-packages/mandatory_2/msg/__init__.py

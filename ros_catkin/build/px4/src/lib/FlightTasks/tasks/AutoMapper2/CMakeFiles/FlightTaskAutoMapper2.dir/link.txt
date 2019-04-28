@@ -1,0 +1,2 @@
+/usr/bin/ar qc /home/chris/school/ros_catkin/devel/.private/px4/lib/libFlightTaskAutoMapper2.a  CMakeFiles/FlightTaskAutoMapper2.dir/FlightTaskAutoMapper2.cpp.o
+/usr/bin/ranlib /home/chris/school/ros_catkin/devel/.private/px4/lib/libFlightTaskAutoMapper2.a

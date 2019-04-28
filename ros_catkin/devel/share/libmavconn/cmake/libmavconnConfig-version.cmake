@@ -1,0 +1,1 @@
+/home/chris/school/ros_catkin/devel/.private/libmavconn/share/libmavconn/cmake/libmavconnConfig-version.cmake

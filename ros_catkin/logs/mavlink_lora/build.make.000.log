@@ -1,0 +1,163 @@
+[35m[1mScanning dependencies of target _mavlink_lora_generate_messages_check_deps_mavlink_lora_command_set_mode[0m
+[  0%] Built target _mavlink_lora_generate_messages_check_deps_mavlink_lora_command_set_mode
+[35m[1mScanning dependencies of target _mavlink_lora_generate_messages_check_deps_mavlink_lora_command_takeoff[0m
+[  0%] Built target _mavlink_lora_generate_messages_check_deps_mavlink_lora_command_takeoff
+[35m[1mScanning dependencies of target _mavlink_lora_generate_messages_check_deps_mavlink_lora_statustext[0m
+[35m[1mScanning dependencies of target _mavlink_lora_generate_messages_check_deps_mavlink_lora_mission_item_int[0m
+[35m[1mScanning dependencies of target _mavlink_lora_generate_messages_check_deps_mavlink_lora_set_position_target_local_ned[0m
+[  0%] Built target _mavlink_lora_generate_messages_check_deps_mavlink_lora_statustext
+[35m[1mScanning dependencies of target _mavlink_lora_generate_messages_check_deps_mavlink_lora_command_reposition[0m
+[  0%] Built target _mavlink_lora_generate_messages_check_deps_mavlink_lora_mission_item_int
+[35m[1mScanning dependencies of target _mavlink_lora_generate_messages_check_deps_mavlink_lora_radio_status[0m
+[  0%] Built target _mavlink_lora_generate_messages_check_deps_mavlink_lora_set_position_target_local_ned
+[35m[1mScanning dependencies of target _mavlink_lora_generate_messages_check_deps_mavlink_lora_heartbeat[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[  0%] Built target std_msgs_generate_messages_cpp
+[  0%] Built target _mavlink_lora_generate_messages_check_deps_mavlink_lora_command_reposition
+[  0%] Built target _mavlink_lora_generate_messages_check_deps_mavlink_lora_radio_status
+[35m[1mScanning dependencies of target _mavlink_lora_generate_messages_check_deps_mavlink_lora_command_ack[0m
+[35m[1mScanning dependencies of target _mavlink_lora_generate_messages_check_deps_mavlink_lora_enable_offboard[0m
+[  0%] Built target _mavlink_lora_generate_messages_check_deps_mavlink_lora_heartbeat
+[35m[1mScanning dependencies of target _mavlink_lora_generate_messages_check_deps_mavlink_lora_command_start_mission[0m
+[35m[1mScanning dependencies of target _mavlink_lora_generate_messages_check_deps_mavlink_lora_gps_raw[0m
+[  0%] Built target _mavlink_lora_generate_messages_check_deps_mavlink_lora_command_ack
+[  0%] Built target _mavlink_lora_generate_messages_check_deps_mavlink_lora_enable_offboard
+[  0%] Built target _mavlink_lora_generate_messages_check_deps_mavlink_lora_gps_raw
+[  0%] Built target _mavlink_lora_generate_messages_check_deps_mavlink_lora_command_start_mission
+[35m[1mScanning dependencies of target _mavlink_lora_generate_messages_check_deps_mavlink_lora_mission_list[0m
+[35m[1mScanning dependencies of target _mavlink_lora_generate_messages_check_deps_mavlink_lora_status[0m
+[35m[1mScanning dependencies of target _mavlink_lora_generate_messages_check_deps_mavlink_lora_command_land[0m
+[35m[1mScanning dependencies of target _mavlink_lora_generate_messages_check_deps_mavlink_lora_mission_ack[0m
+[  0%] Built target _mavlink_lora_generate_messages_check_deps_mavlink_lora_status
+[  0%] Built target _mavlink_lora_generate_messages_check_deps_mavlink_lora_mission_list
+[  0%] Built target _mavlink_lora_generate_messages_check_deps_mavlink_lora_command_land
+[35m[1mScanning dependencies of target _mavlink_lora_generate_messages_check_deps_mavlink_lora_attitude[0m
+[  0%] Built target _mavlink_lora_generate_messages_check_deps_mavlink_lora_mission_ack
+[35m[1mScanning dependencies of target _mavlink_lora_generate_messages_check_deps_mavlink_lora_msg[0m
+[35m[1mScanning dependencies of target _mavlink_lora_generate_messages_check_deps_mavlink_lora_pos[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[  0%] Built target std_msgs_generate_messages_nodejs
+[  0%] Built target std_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[  0%] Built target _mavlink_lora_generate_messages_check_deps_mavlink_lora_attitude
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[  0%] Built target _mavlink_lora_generate_messages_check_deps_mavlink_lora_msg
+[  0%] Built target std_msgs_generate_messages_eus
+[  0%] Built target std_msgs_generate_messages_py
+[  0%] Built target _mavlink_lora_generate_messages_check_deps_mavlink_lora_pos
+[35m[1mScanning dependencies of target mavlink_lora_generate_messages_nodejs[0m
+[35m[1mScanning dependencies of target mavlink_lora_generate_messages_py[0m
+[35m[1mScanning dependencies of target mavlink_lora_generate_messages_cpp[0m
+[35m[1mScanning dependencies of target mavlink_lora_generate_messages_lisp[0m
+[35m[1mScanning dependencies of target mavlink_lora_generate_messages_eus[0m
+[  1%] [34m[1mGenerating Javascript code from mavlink_lora/mavlink_lora_command_start_mission.msg[0m
+[  2%] [34m[1mGenerating C++ code from mavlink_lora/mavlink_lora_command_start_mission.msg[0m
+[  3%] [34m[1mGenerating Python from MSG mavlink_lora/mavlink_lora_command_start_mission[0m
+[  4%] [34m[1mGenerating EusLisp code from mavlink_lora/mavlink_lora_command_start_mission.msg[0m
+[  5%] [34m[1mGenerating Lisp code from mavlink_lora/mavlink_lora_command_start_mission.msg[0m
+[  6%] [34m[1mGenerating Lisp code from mavlink_lora/mavlink_lora_gps_raw.msg[0m
+[  7%] [34m[1mGenerating Javascript code from mavlink_lora/mavlink_lora_gps_raw.msg[0m
+[  9%] [34m[1mGenerating EusLisp code from mavlink_lora/mavlink_lora_gps_raw.msg[0m
+[ 10%] [34m[1mGenerating Javascript code from mavlink_lora/mavlink_lora_status.msg[0m
+[ 11%] [34m[1mGenerating Lisp code from mavlink_lora/mavlink_lora_status.msg[0m
+[ 12%] [34m[1mGenerating Python from MSG mavlink_lora/mavlink_lora_gps_raw[0m
+[ 12%] [34m[1mGenerating EusLisp code from mavlink_lora/mavlink_lora_status.msg[0m
+[ 13%] [34m[1mGenerating C++ code from mavlink_lora/mavlink_lora_gps_raw.msg[0m
+[ 14%] [34m[1mGenerating Javascript code from mavlink_lora/mavlink_lora_command_land.msg[0m
+[ 15%] [34m[1mGenerating Lisp code from mavlink_lora/mavlink_lora_command_land.msg[0m
+[ 17%] [34m[1mGenerating EusLisp code from mavlink_lora/mavlink_lora_command_land.msg[0m
+[ 17%] [34m[1mGenerating Python from MSG mavlink_lora/mavlink_lora_status[0m
+[ 18%] [34m[1mGenerating Lisp code from mavlink_lora/mavlink_lora_radio_status.msg[0m
+[ 18%] [34m[1mGenerating Javascript code from mavlink_lora/mavlink_lora_radio_status.msg[0m
+[ 19%] [34m[1mGenerating EusLisp code from mavlink_lora/mavlink_lora_radio_status.msg[0m
+[ 20%] [34m[1mGenerating C++ code from mavlink_lora/mavlink_lora_status.msg[0m
+[ 21%] [34m[1mGenerating Javascript code from mavlink_lora/mavlink_lora_command_ack.msg[0m
+[ 22%] [34m[1mGenerating Lisp code from mavlink_lora/mavlink_lora_command_ack.msg[0m
+[ 23%] [34m[1mGenerating Python from MSG mavlink_lora/mavlink_lora_command_land[0m
+[ 25%] [34m[1mGenerating EusLisp code from mavlink_lora/mavlink_lora_command_ack.msg[0m
+[ 25%] [34m[1mGenerating Javascript code from mavlink_lora/mavlink_lora_mission_ack.msg[0m
+[ 26%] [34m[1mGenerating Lisp code from mavlink_lora/mavlink_lora_mission_ack.msg[0m
+[ 27%] [34m[1mGenerating Javascript code from mavlink_lora/mavlink_lora_mission_item_int.msg[0m
+[ 28%] [34m[1mGenerating Lisp code from mavlink_lora/mavlink_lora_mission_item_int.msg[0m
+[ 29%] [34m[1mGenerating EusLisp code from mavlink_lora/mavlink_lora_mission_ack.msg[0m
+[ 30%] [34m[1mGenerating Python from MSG mavlink_lora/mavlink_lora_radio_status[0m
+[ 31%] [34m[1mGenerating Javascript code from mavlink_lora/mavlink_lora_msg.msg[0m
+[ 32%] [34m[1mGenerating C++ code from mavlink_lora/mavlink_lora_command_land.msg[0m
+[ 34%] [34m[1mGenerating Lisp code from mavlink_lora/mavlink_lora_msg.msg[0m
+[ 35%] [34m[1mGenerating Javascript code from mavlink_lora/mavlink_lora_pos.msg[0m
+[ 36%] [34m[1mGenerating EusLisp code from mavlink_lora/mavlink_lora_mission_item_int.msg[0m
+[ 37%] [34m[1mGenerating Lisp code from mavlink_lora/mavlink_lora_pos.msg[0m
+[ 38%] [34m[1mGenerating Javascript code from mavlink_lora/mavlink_lora_mission_list.msg[0m
+[ 39%] [34m[1mGenerating Python from MSG mavlink_lora/mavlink_lora_command_ack[0m
+[ 40%] [34m[1mGenerating Lisp code from mavlink_lora/mavlink_lora_mission_list.msg[0m
+[ 42%] [34m[1mGenerating EusLisp code from mavlink_lora/mavlink_lora_msg.msg[0m
+[ 43%] [34m[1mGenerating Javascript code from mavlink_lora/mavlink_lora_command_set_mode.msg[0m
+[ 43%] [34m[1mGenerating Lisp code from mavlink_lora/mavlink_lora_command_set_mode.msg[0m
+[ 44%] [34m[1mGenerating C++ code from mavlink_lora/mavlink_lora_radio_status.msg[0m
+[ 45%] [34m[1mGenerating Javascript code from mavlink_lora/mavlink_lora_enable_offboard.msg[0m
+[ 46%] [34m[1mGenerating Lisp code from mavlink_lora/mavlink_lora_enable_offboard.msg[0m
+[ 47%] [34m[1mGenerating Python from MSG mavlink_lora/mavlink_lora_mission_ack[0m
+[ 47%] [34m[1mGenerating EusLisp code from mavlink_lora/mavlink_lora_pos.msg[0m
+[ 48%] [34m[1mGenerating Javascript code from mavlink_lora/mavlink_lora_command_reposition.msg[0m
+[ 50%] [34m[1mGenerating Lisp code from mavlink_lora/mavlink_lora_command_reposition.msg[0m
+[ 50%] [34m[1mGenerating Javascript code from mavlink_lora/mavlink_lora_set_position_target_local_ned.msg[0m
+[ 51%] [34m[1mGenerating Lisp code from mavlink_lora/mavlink_lora_set_position_target_local_ned.msg[0m
+[ 52%] [34m[1mGenerating EusLisp code from mavlink_lora/mavlink_lora_mission_list.msg[0m
+[ 53%] [34m[1mGenerating Python from MSG mavlink_lora/mavlink_lora_mission_item_int[0m
+[ 54%] [34m[1mGenerating C++ code from mavlink_lora/mavlink_lora_command_ack.msg[0m
+[ 55%] [34m[1mGenerating Javascript code from mavlink_lora/mavlink_lora_command_takeoff.msg[0m
+[ 56%] [34m[1mGenerating Lisp code from mavlink_lora/mavlink_lora_command_takeoff.msg[0m
+[ 57%] [34m[1mGenerating EusLisp code from mavlink_lora/mavlink_lora_command_set_mode.msg[0m
+[ 59%] [34m[1mGenerating Javascript code from mavlink_lora/mavlink_lora_statustext.msg[0m
+[ 60%] [34m[1mGenerating Lisp code from mavlink_lora/mavlink_lora_statustext.msg[0m
+[ 61%] [34m[1mGenerating Python from MSG mavlink_lora/mavlink_lora_msg[0m
+[ 62%] [34m[1mGenerating Javascript code from mavlink_lora/mavlink_lora_attitude.msg[0m
+[ 63%] [34m[1mGenerating Lisp code from mavlink_lora/mavlink_lora_attitude.msg[0m
+[ 63%] [34m[1mGenerating C++ code from mavlink_lora/mavlink_lora_mission_ack.msg[0m
+[ 64%] [34m[1mGenerating EusLisp code from mavlink_lora/mavlink_lora_enable_offboard.msg[0m
+[ 65%] [34m[1mGenerating Javascript code from mavlink_lora/mavlink_lora_heartbeat.msg[0m
+[ 67%] [34m[1mGenerating C++ code from mavlink_lora/mavlink_lora_mission_item_int.msg[0m
+[ 67%] [34m[1mGenerating Lisp code from mavlink_lora/mavlink_lora_heartbeat.msg[0m
+[ 67%] [34m[1mGenerating Python from MSG mavlink_lora/mavlink_lora_pos[0m
+[ 67%] Built target mavlink_lora_generate_messages_nodejs
+[ 68%] [34m[1mGenerating EusLisp code from mavlink_lora/mavlink_lora_command_reposition.msg[0m
+[ 69%] [34m[1mGenerating EusLisp code from mavlink_lora/mavlink_lora_set_position_target_local_ned.msg[0m
+[ 69%] Built target mavlink_lora_generate_messages_lisp
+[ 70%] [34m[1mGenerating EusLisp code from mavlink_lora/mavlink_lora_command_takeoff.msg[0m
+[ 71%] [34m[1mGenerating Python from MSG mavlink_lora/mavlink_lora_mission_list[0m
+[ 71%] [34m[1mGenerating EusLisp code from mavlink_lora/mavlink_lora_statustext.msg[0m
+[ 72%] [34m[1mGenerating C++ code from mavlink_lora/mavlink_lora_msg.msg[0m
+[ 73%] [34m[1mGenerating Python from MSG mavlink_lora/mavlink_lora_command_set_mode[0m
+[ 75%] [34m[1mGenerating C++ code from mavlink_lora/mavlink_lora_pos.msg[0m
+[ 76%] [34m[1mGenerating Python from MSG mavlink_lora/mavlink_lora_enable_offboard[0m
+[ 77%] [34m[1mGenerating EusLisp code from mavlink_lora/mavlink_lora_attitude.msg[0m
+[ 78%] [34m[1mGenerating EusLisp code from mavlink_lora/mavlink_lora_heartbeat.msg[0m
+[ 79%] [34m[1mGenerating EusLisp manifest code for mavlink_lora[0m
+[ 80%] [34m[1mGenerating Python from MSG mavlink_lora/mavlink_lora_command_reposition[0m
+[ 81%] [34m[1mGenerating Python from MSG mavlink_lora/mavlink_lora_set_position_target_local_ned[0m
+[ 82%] [34m[1mGenerating C++ code from mavlink_lora/mavlink_lora_mission_list.msg[0m
+[ 84%] [34m[1mGenerating Python from MSG mavlink_lora/mavlink_lora_command_takeoff[0m
+[ 85%] [34m[1mGenerating C++ code from mavlink_lora/mavlink_lora_command_set_mode.msg[0m
+[ 86%] [34m[1mGenerating C++ code from mavlink_lora/mavlink_lora_enable_offboard.msg[0m
+[ 87%] [34m[1mGenerating C++ code from mavlink_lora/mavlink_lora_command_reposition.msg[0m
+[ 87%] [34m[1mGenerating Python from MSG mavlink_lora/mavlink_lora_statustext[0m
+[ 87%] [34m[1mGenerating C++ code from mavlink_lora/mavlink_lora_set_position_target_local_ned.msg[0m
+[ 88%] [34m[1mGenerating C++ code from mavlink_lora/mavlink_lora_command_takeoff.msg[0m
+[ 89%] [34m[1mGenerating Python from MSG mavlink_lora/mavlink_lora_attitude[0m
+[ 90%] [34m[1mGenerating C++ code from mavlink_lora/mavlink_lora_statustext.msg[0m
+[ 92%] [34m[1mGenerating C++ code from mavlink_lora/mavlink_lora_attitude.msg[0m
+[ 93%] [34m[1mGenerating Python from MSG mavlink_lora/mavlink_lora_heartbeat[0m
+[ 94%] [34m[1mGenerating C++ code from mavlink_lora/mavlink_lora_heartbeat.msg[0m
+[ 95%] [34m[1mGenerating Python msg __init__.py for mavlink_lora[0m
+[ 95%] Built target mavlink_lora_generate_messages_eus
+[ 95%] Built target mavlink_lora_generate_messages_py
+[ 95%] Built target mavlink_lora_generate_messages_cpp
+[35m[1mScanning dependencies of target mavlink_lora_node[0m
+[35m[1mScanning dependencies of target mavlink_lora_generate_messages[0m
+[ 95%] Built target mavlink_lora_generate_messages
+[ 97%] [32mBuilding C object CMakeFiles/mavlink_lora_node.dir/src/mavlink_lora_lib.c.o[0m
+[ 97%] [32mBuilding C object CMakeFiles/mavlink_lora_node.dir/src/serial.c.o[0m
+[ 98%] [32mBuilding CXX object CMakeFiles/mavlink_lora_node.dir/src/mavlink_lora_node.cpp.o[0m
+[100%] [32m[1mLinking CXX executable /home/chris/school/ros_catkin/devel/.private/mavlink_lora/lib/mavlink_lora/mavlink_lora_node[0m
+[100%] Built target mavlink_lora_node
