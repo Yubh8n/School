@@ -1,0 +1,11 @@
+prefix=/home/chris
+exec_prefix=${prefix}
+libdir=${exec_prefix}/lib
+includedir=${prefix}/include
+
+Name: ode
+Description: Open Dynamics Engine
+Version: 0.11.1-dbl
+Libs: -L${libdir} -lode_dbl
+Libs.private: -lstdc++ -lm
+Cflags: -I${includedir} -DdDOUBLE

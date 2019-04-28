@@ -1,0 +1,7 @@
+<launch>
+<node name="foo" pkg="test" type="serial2udp.sh" />
+<include file="$(find px4)/launch/mavros_posix_sitl.launch" >
+</include>
+	<node name="test" pkg="test" type="test_node" output="screen">
+	</node>
+</launch>
