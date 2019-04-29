@@ -1,0 +1,28 @@
+[36m--[0m PX4 config file: /home/chris/school/ros_catkin/src/Firmware/boards/px4/sitl/default.cmake
+[36m--[0m PX4 config: px4_sitl_default
+[36m--[0m PX4 platform: posix
+[36m--[0m PX4 lockstep: enabled
+[36m--[0m PX4 version: v1.9.0-beta3-26-g3bf5d6af12
+[36m--[0m cmake build type: RelWithDebInfo
+[36m--[0m ccache enabled (export CCACHE_DISABLE=1 to disable)
+[36m--[0m catkin ENABLED
+[36m--[0m Using CATKIN_DEVEL_PREFIX: /home/chris/school/ros_catkin/devel/.private/px4
+[36m--[0m Using CMAKE_PREFIX_PATH: /home/chris/school/ros_catkin/devel;/home/chris/ros_workspace/devel;/opt/ros/melodic
+[36m--[0m This workspace overlays: /home/chris/school/ros_catkin/devel;/home/chris/ros_workspace/devel;/opt/ros/melodic
+[36m--[0m Found PythonInterp: /usr/bin/python2 (found suitable version "2.7.15", minimum required is "2")
+[36m--[0m Using PYTHON_EXECUTABLE: /usr/bin/python2
+[36m--[0m Using Debian Python package layout
+[36m--[0m Using empy: /usr/bin/empy
+[36m--[0m Using CATKIN_ENABLE_TESTING: ON
+[36m--[0m Call enable_testing()
+[36m--[0m Using CATKIN_TEST_RESULTS_DIR: /home/chris/school/ros_catkin/build/px4/test_results
+[36m--[0m Found gmock sources under '/usr/src/googletest': gmock will be built
+[36m--[0m Found PythonInterp: /usr/bin/python2 (found version "2.7.15")
+[36m--[0m Found gtest sources under '/usr/src/googletest': gtests will be built
+[36m--[0m Using Python nosetests: /usr/bin/nosetests-2.7
+[36m--[0m catkin 0.7.17
+[36m--[0m BUILD_SHARED_LIBS is off
+[36m--[0m PX4 ECL: Very lightweight Estimation & Control Library v0.9.0-676-gc4492b1
+[36m--[0m Configuring done
+[36m--[0m Generating done
+[36m--[0m Build files have been written to: /home/chris/school/ros_catkin/build/px4

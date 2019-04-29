@@ -1379,7 +1379,7 @@ void Ekf::controlMagFusion()
 
 		// We need to reset the yaw angle after climbing away from the ground to enable
 		// recovery from ground level magnetic interference.
-		if (!_control_status.flags.mag_align_complete) {
+		if (!_control_status.flags.mag_align_complete && _control_status.flags.in_air) {
 			// Check if height has increased sufficiently to be away from ground magnetic anomalies
 			// and request a yaw reset if not already requested.
 			float terrain_vpos_estimate = get_terrain_valid() ? _terrain_vpos : _last_on_ground_posD;
@@ -1533,16 +1533,10 @@ void Ekf::controlMagFusion()
 			}
 
 		} else if (_params.mag_fusion_type == MAG_FUSE_TYPE_3D) {
-			// if transitioning into 3-axis fusion mode, we need to initialise the yaw angle and field states
-			if (!_control_status.flags.mag_3D || !_control_status.flags.mag_align_complete) {
-				_control_status.flags.mag_align_complete = resetMagHeading(_mag_sample_delayed.mag);
-				_control_status.flags.yaw_align = _control_status.flags.yaw_align || _control_status.flags.mag_align_complete;
+			if (!_control_status.flags.mag_3D && _control_status.flags.yaw_align) {
+				// only commence 3-axis fusion when yaw is aligned and field states set
+				_control_status.flags.mag_3D = true;
 			}
-
-			// use 3-axis mag fusion if reset was successful
-			_control_status.flags.mag_3D = _control_status.flags.mag_align_complete;
-			_control_status.flags.mag_hdg = false;
-
 		} else {
 			// do no magnetometer fusion at all
 			_control_status.flags.mag_hdg = false;

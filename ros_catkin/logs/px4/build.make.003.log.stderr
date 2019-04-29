@@ -1,0 +1,8 @@
+/bin/sh: 1: /usr/bin/ccache: not found
+make[2]: *** [platforms/posix/src/lockstep_scheduler/CMakeFiles/lockstep_scheduler.dir/src/lockstep_scheduler.cpp.o] Error 127
+make[1]: *** [platforms/posix/src/lockstep_scheduler/CMakeFiles/lockstep_scheduler.dir/all] Error 2
+make[1]: *** Waiting for unfinished jobs....
+/bin/sh: 1: /usr/bin/ccache: not found
+make[2]: *** [src/lib/DriverFramework/framework/src/CMakeFiles/df_driver_framework.dir/DriverFramework.cpp.o] Error 127
+make[1]: *** [src/lib/DriverFramework/framework/src/CMakeFiles/df_driver_framework.dir/all] Error 2
+make: *** [all] Error 2

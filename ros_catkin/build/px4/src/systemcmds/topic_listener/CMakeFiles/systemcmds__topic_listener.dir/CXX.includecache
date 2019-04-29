@@ -71,9 +71,9 @@ uORB/topics/esc_status.h
 -
 uORB/topics/differential_pressure.h
 -
-uORB/topics/orbit_status.h
+uORB/topics/adc_report.h
 -
-uORB/topics/vehicle_attitude.h
+uORB/topics/sensor_selection.h
 -
 uORB/topics/geofence_result.h
 -
@@ -103,6 +103,8 @@ uORB/topics/vehicle_attitude_setpoint.h
 -
 uORB/topics/telemetry_status.h
 -
+uORB/topics/orbit_status.h
+-
 uORB/topics/multirotor_motor_limits.h
 -
 uORB/topics/vehicle_constraints.h
@@ -113,7 +115,7 @@ uORB/topics/debug_value.h
 -
 uORB/topics/vehicle_global_position.h
 -
-uORB/topics/servorail_status.h
+uORB/topics/pwm_input.h
 -
 uORB/topics/actuator_armed.h
 -
@@ -125,7 +127,7 @@ uORB/topics/estimator_status.h
 -
 uORB/topics/vehicle_control_mode.h
 -
-uORB/topics/landing_target_innovations.h
+uORB/topics/debug_vect.h
 -
 uORB/topics/task_stack_info.h
 -
@@ -141,13 +143,13 @@ uORB/topics/vehicle_rates_setpoint.h
 -
 uORB/topics/wind_estimate.h
 -
-uORB/topics/adc_report.h
+uORB/topics/tecs_status.h
 -
 uORB/topics/sensor_correction.h
 -
 uORB/topics/optical_flow.h
 -
-uORB/topics/pwm_input.h
+uORB/topics/servorail_status.h
 -
 uORB/topics/position_setpoint.h
 -
@@ -156,8 +158,6 @@ uORB/topics/irlock_report.h
 uORB/topics/collision_report.h
 -
 uORB/topics/led_control.h
--
-uORB/topics/tecs_status.h
 -
 uORB/topics/debug_array.h
 -
@@ -177,7 +177,7 @@ uORB/topics/cpuload.h
 -
 uORB/topics/vehicle_air_data.h
 -
-uORB/topics/sensor_selection.h
+uORB/topics/vehicle_attitude.h
 -
 uORB/topics/battery_status.h
 -
@@ -219,7 +219,7 @@ uORB/topics/collision_constraints.h
 -
 uORB/topics/ekf2_timestamps.h
 -
-uORB/topics/debug_vect.h
+uORB/topics/landing_target_innovations.h
 -
 uORB/topics/position_controller_landing_status.h
 -

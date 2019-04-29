@@ -60,7 +60,7 @@ ASLUAV-v2.0-cxx-stamp: /home/chris/school/ros_catkin/src/mavlink/message_definit
 ASLUAV-v2.0-cxx-stamp: /home/chris/school/ros_catkin/src/mavlink/message_definitions/v1.0/common.xml
 ASLUAV-v2.0-cxx-stamp: /home/chris/school/ros_catkin/src/mavlink/pymavlink/tools/mavgen.py
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/chris/school/ros_catkin/build/mavlink/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Generating ASLUAV-v2.0-cxx-stamp"
-	/usr/bin/env PYTHONPATH="/home/chris/school/ros_catkin/src/mavlink:/home/chris/school/ros_catkin/devel/lib/python2.7/dist-packages:/opt/ros/melodic/lib/python2.7/dist-packages" /usr/bin/python /home/chris/school/ros_catkin/src/mavlink/pymavlink/tools/mavgen.py --lang=C++11 --wire-protocol=2.0 --output=include/v2.0 /home/chris/school/ros_catkin/src/mavlink/message_definitions/v1.0/ASLUAV.xml
+	/usr/bin/env PYTHONPATH="/home/chris/school/ros_catkin/src/mavlink:/home/chris/school/ros_catkin/devel/lib/python2.7/dist-packages:/home/chris/ros_workspace/devel/lib/python2.7/dist-packages:/opt/ros/melodic/lib/python2.7/dist-packages" /usr/bin/python /home/chris/school/ros_catkin/src/mavlink/pymavlink/tools/mavgen.py --lang=C++11 --wire-protocol=2.0 --output=include/v2.0 /home/chris/school/ros_catkin/src/mavlink/message_definitions/v1.0/ASLUAV.xml
 	touch ASLUAV-v2.0-cxx-stamp
 
 ASLUAV.xml-v2.0: CMakeFiles/ASLUAV.xml-v2.0

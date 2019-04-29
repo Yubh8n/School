@@ -113,6 +113,7 @@ parameters.xml: /home/chris/school/ros_catkin/src/Firmware/src/modules/navigator
 parameters.xml: /home/chris/school/ros_catkin/src/Firmware/src/modules/sensors/motor_params.c
 parameters.xml: /home/chris/school/ros_catkin/src/Firmware/src/modules/sensors/rc_params.c
 parameters.xml: /home/chris/school/ros_catkin/src/Firmware/src/modules/sensors/sensor_params.c
+parameters.xml: /home/chris/school/ros_catkin/src/Firmware/src/modules/sih/sih_params.c
 parameters.xml: /home/chris/school/ros_catkin/src/Firmware/src/modules/simulator/simulator_params.c
 parameters.xml: /home/chris/school/ros_catkin/src/Firmware/src/modules/vmount/vmount_params.c
 parameters.xml: /home/chris/school/ros_catkin/src/Firmware/src/modules/vtol_att_control/standard_params.c

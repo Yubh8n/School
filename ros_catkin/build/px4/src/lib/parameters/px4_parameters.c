@@ -2299,7 +2299,7 @@ struct px4_parameters_t px4_parameters = {
 		"FW_LND_EARLYCFG",
 		PARAM_TYPE_INT32,
 		.volatile_param = 0,
-		.val.i = 1
+		.val.i = 0
 	},
 
 	{
@@ -4046,13 +4046,6 @@ struct px4_parameters_t px4_parameters = {
 	},
 
 	{
-		"MC_YAWRAUTO_MAX",
-		PARAM_TYPE_FLOAT,
-		.volatile_param = 0,
-		.val.f = 45.0
-	},
-
-	{
 		"MC_YAW_P",
 		PARAM_TYPE_FLOAT,
 		.volatile_param = 0,
@@ -4533,6 +4526,13 @@ struct px4_parameters_t px4_parameters = {
 		PARAM_TYPE_FLOAT,
 		.volatile_param = 0,
 		.val.f = 0.09
+	},
+
+	{
+		"MPC_YAWRAUTO_MAX",
+		PARAM_TYPE_FLOAT,
+		.volatile_param = 0,
+		.val.f = 45.0
 	},
 
 	{

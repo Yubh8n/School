@@ -9,6 +9,8 @@
 # modified environment variables
 export CMAKE_PREFIX_PATH="/home/chris/school/ros_catkin/devel/.private/mavlink_lora:$CMAKE_PREFIX_PATH"
 export LD_LIBRARY_PATH="/home/chris/school/ros_catkin/devel/.private/mavlink_lora/lib:$LD_LIBRARY_PATH"
+export PATH="/home/chris/school/ros_catkin/devel/.private/mavlink_lora/bin:$PATH"
+export PKG_CONFIG_PATH="/home/chris/school/ros_catkin/devel/.private/mavlink_lora/lib/pkgconfig:$PKG_CONFIG_PATH"
 export PWD="/home/chris/school/ros_catkin/build/mavlink_lora"
 export PYTHONPATH="/home/chris/school/ros_catkin/devel/.private/mavlink_lora/lib/python2.7/dist-packages:$PYTHONPATH"
 export ROSLISP_PACKAGE_DIRECTORIES="/home/chris/school/ros_catkin/devel/.private/mavlink_lora/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"

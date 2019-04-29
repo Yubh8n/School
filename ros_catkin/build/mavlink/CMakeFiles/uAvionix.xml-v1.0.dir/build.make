@@ -60,7 +60,7 @@ include/v1.0/uAvionix/uAvionix.h: /home/chris/school/ros_catkin/src/mavlink/mess
 include/v1.0/uAvionix/uAvionix.h: /home/chris/school/ros_catkin/src/mavlink/message_definitions/v1.0/common.xml
 include/v1.0/uAvionix/uAvionix.h: /home/chris/school/ros_catkin/src/mavlink/pymavlink/tools/mavgen.py
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/chris/school/ros_catkin/build/mavlink/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Generating include/v1.0/uAvionix/uAvionix.h"
-	/usr/bin/env PYTHONPATH="/home/chris/school/ros_catkin/src/mavlink:/home/chris/school/ros_catkin/devel/lib/python2.7/dist-packages:/opt/ros/melodic/lib/python2.7/dist-packages" /usr/bin/python /home/chris/school/ros_catkin/src/mavlink/pymavlink/tools/mavgen.py --lang=C --wire-protocol=1.0 --output=include/v1.0 /home/chris/school/ros_catkin/src/mavlink/message_definitions/v1.0/uAvionix.xml
+	/usr/bin/env PYTHONPATH="/home/chris/school/ros_catkin/src/mavlink:/home/chris/school/ros_catkin/devel/lib/python2.7/dist-packages:/home/chris/ros_workspace/devel/lib/python2.7/dist-packages:/opt/ros/melodic/lib/python2.7/dist-packages" /usr/bin/python /home/chris/school/ros_catkin/src/mavlink/pymavlink/tools/mavgen.py --lang=C --wire-protocol=1.0 --output=include/v1.0 /home/chris/school/ros_catkin/src/mavlink/message_definitions/v1.0/uAvionix.xml
 
 uAvionix.xml-v1.0: CMakeFiles/uAvionix.xml-v1.0
 uAvionix.xml-v1.0: include/v1.0/uAvionix/uAvionix.h

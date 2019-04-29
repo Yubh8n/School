@@ -1,0 +1,13 @@
+[  4%] [34m[1mGenerating uAvionix-v2.0-cxx-stamp[0m
+Traceback (most recent call last):
+  File "/home/chris/school/ros_catkin/src/mavlink/pymavlink/tools/mavgen.py", line 16, in <module>
+    from pymavlink.generator import mavgen
+  File "/home/chris/school/ros_catkin/src/mavlink/pymavlink/generator/mavgen.py", line 12, in <module>
+    from future import standard_library
+ImportError: No module named future
+CMakeFiles/uAvionix.xml-v2.0.dir/build.make:62: recipe for target 'uAvionix-v2.0-cxx-stamp' failed
+make[2]: *** [uAvionix-v2.0-cxx-stamp] Error 1
+CMakeFiles/Makefile2:67: recipe for target 'CMakeFiles/uAvionix.xml-v2.0.dir/all' failed
+make[1]: *** [CMakeFiles/uAvionix.xml-v2.0.dir/all] Error 2
+Makefile:117: recipe for target 'all' failed
+make: *** [all] Error 2

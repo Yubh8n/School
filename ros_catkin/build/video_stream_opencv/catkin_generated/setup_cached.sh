@@ -8,7 +8,8 @@
 
 # modified environment variables
 export CMAKE_PREFIX_PATH="/home/chris/school/ros_catkin/devel/.private/video_stream_opencv:$CMAKE_PREFIX_PATH"
+export LD_LIBRARY_PATH="/home/chris/school/ros_catkin/devel/.private/video_stream_opencv/lib:$LD_LIBRARY_PATH"
+export PKG_CONFIG_PATH="/home/chris/school/ros_catkin/devel/.private/video_stream_opencv/lib/pkgconfig:$PKG_CONFIG_PATH"
 export PWD="/home/chris/school/ros_catkin/build/video_stream_opencv"
-export PYTHONPATH="/home/chris/school/ros_catkin/devel/lib/python2.7/dist-packages:$PYTHONPATH"
 export ROSLISP_PACKAGE_DIRECTORIES="/home/chris/school/ros_catkin/devel/.private/video_stream_opencv/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
 export ROS_PACKAGE_PATH="/home/chris/school/ros_catkin/src/video_stream_opencv:$ROS_PACKAGE_PATH"

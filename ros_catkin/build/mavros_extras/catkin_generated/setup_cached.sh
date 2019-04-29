@@ -8,6 +8,8 @@
 
 # modified environment variables
 export CMAKE_PREFIX_PATH="/home/chris/school/ros_catkin/devel/.private/mavros_extras:$CMAKE_PREFIX_PATH"
+export LD_LIBRARY_PATH="/home/chris/school/ros_catkin/devel/.private/mavros_extras/lib:$LD_LIBRARY_PATH"
+export PKG_CONFIG_PATH="/home/chris/school/ros_catkin/devel/.private/mavros_extras/lib/pkgconfig:$PKG_CONFIG_PATH"
 export PWD="/home/chris/school/ros_catkin/build/mavros_extras"
 export ROSLISP_PACKAGE_DIRECTORIES="/home/chris/school/ros_catkin/devel/.private/mavros_extras/share/common-lisp:$ROSLISP_PACKAGE_DIRECTORIES"
 export ROS_PACKAGE_PATH="/home/chris/school/ros_catkin/src/mavros/mavros_extras:$ROS_PACKAGE_PATH"

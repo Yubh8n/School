@@ -584,7 +584,6 @@ struct px4_parameters_t {
 	const struct param_info_s __param__MC_YAWRATE_I;
 	const struct param_info_s __param__MC_YAWRATE_MAX;
 	const struct param_info_s __param__MC_YAWRATE_P;
-	const struct param_info_s __param__MC_YAWRAUTO_MAX;
 	const struct param_info_s __param__MC_YAW_P;
 	const struct param_info_s __param__MC_YR_INT_LIM;
 	const struct param_info_s __param__MIS_ALTMODE;
@@ -654,6 +653,7 @@ struct px4_parameters_t {
 	const struct param_info_s __param__MPC_XY_VEL_I;
 	const struct param_info_s __param__MPC_XY_VEL_MAX;
 	const struct param_info_s __param__MPC_XY_VEL_P;
+	const struct param_info_s __param__MPC_YAWRAUTO_MAX;
 	const struct param_info_s __param__MPC_YAW_EXPO;
 	const struct param_info_s __param__MPC_YAW_MODE;
 	const struct param_info_s __param__MPC_Z_MAN_EXPO;
