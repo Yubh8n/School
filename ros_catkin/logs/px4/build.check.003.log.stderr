@@ -1,5 +1,0 @@
-[31m[1mCMake Error[0m at /home/chris/school/ros_catkin/src/Firmware/src/lib/version/CMakeLists.txt:47 (message):
-  is not a git repository
-
-
-make: *** [cmake_check_build_system] Error 1

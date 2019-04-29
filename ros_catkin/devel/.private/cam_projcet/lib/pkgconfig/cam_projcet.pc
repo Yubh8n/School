@@ -1,8 +1,0 @@
-prefix=/home/chris/school/ros_catkin/devel/.private/cam_projcet
-
-Name: cam_projcet
-Description: Description of cam_projcet
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/chris/school/ros_catkin/devel/.private/cam_projcet/lib 
-Requires: 

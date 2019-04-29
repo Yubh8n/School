@@ -1,2 +1,0 @@
-/usr/bin/ar qc /home/chris/school/ros_catkin/devel/.private/px4/lib/libecl_l1.a  CMakeFiles/ecl_l1.dir/ecl_l1_pos_controller.cpp.o
-/usr/bin/ranlib /home/chris/school/ros_catkin/devel/.private/px4/lib/libecl_l1.a

@@ -1,8 +1,0 @@
-prefix=/home/chris/school/ros_catkin/devel
-exec_prefix=/home/chris/school/ros_catkin/devel
-includedir=${prefix}/include
-
-Name: mavlink
-Description: MAVLink micro air vehicle marshalling / communication library
-Version: 2019.4.4
-Cflags: -I${includedir}

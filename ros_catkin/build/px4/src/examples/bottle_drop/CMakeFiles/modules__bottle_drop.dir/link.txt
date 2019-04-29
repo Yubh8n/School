@@ -1,2 +1,0 @@
-/usr/bin/ar qc /home/chris/school/ros_catkin/devel/.private/px4/lib/libmodules__bottle_drop.a  CMakeFiles/modules__bottle_drop.dir/bottle_drop.cpp.o
-/usr/bin/ranlib /home/chris/school/ros_catkin/devel/.private/px4/lib/libmodules__bottle_drop.a

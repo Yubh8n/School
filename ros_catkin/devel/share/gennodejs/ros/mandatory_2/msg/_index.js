@@ -1,1 +1,0 @@
-/home/chris/school/ros_catkin/devel/.private/mandatory_2/share/gennodejs/ros/mandatory_2/msg/_index.js

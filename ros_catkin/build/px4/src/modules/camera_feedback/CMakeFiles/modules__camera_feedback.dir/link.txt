@@ -1,2 +1,0 @@
-/usr/bin/ar qc /home/chris/school/ros_catkin/devel/.private/px4/lib/libmodules__camera_feedback.a  CMakeFiles/modules__camera_feedback.dir/camera_feedback.cpp.o
-/usr/bin/ranlib /home/chris/school/ros_catkin/devel/.private/px4/lib/libmodules__camera_feedback.a

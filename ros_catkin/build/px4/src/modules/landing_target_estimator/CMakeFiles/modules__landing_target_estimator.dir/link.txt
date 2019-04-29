@@ -1,2 +1,0 @@
-/usr/bin/ar qc /home/chris/school/ros_catkin/devel/.private/px4/lib/libmodules__landing_target_estimator.a  CMakeFiles/modules__landing_target_estimator.dir/landing_target_estimator_main.cpp.o CMakeFiles/modules__landing_target_estimator.dir/LandingTargetEstimator.cpp.o CMakeFiles/modules__landing_target_estimator.dir/KalmanFilter.cpp.o
-/usr/bin/ranlib /home/chris/school/ros_catkin/devel/.private/px4/lib/libmodules__landing_target_estimator.a

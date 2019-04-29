@@ -1,8 +1,0 @@
-prefix=/home/chris/school/ros_catkin/devel/.private/object_publisher
-
-Name: object_publisher
-Description: Description of object_publisher
-Version: 0.0.0
-Cflags: -I/home/chris/school/ros_catkin/devel/.private/object_publisher/include
-Libs: -L/home/chris/school/ros_catkin/devel/.private/object_publisher/lib 
-Requires: message_runtime roscpp rospy std_msgs

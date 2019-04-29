@@ -1,5 +1,0 @@
-cam_projcet
-/home/chris/school/ros_catkin/devel/.private/cam_projcet/cmake.lock /home/chris/school/ros_catkin/devel/./cmake.lock
-/home/chris/school/ros_catkin/devel/.private/cam_projcet/share/cam_projcet/cmake/cam_projcetConfig.cmake /home/chris/school/ros_catkin/devel/share/cam_projcet/cmake/cam_projcetConfig.cmake
-/home/chris/school/ros_catkin/devel/.private/cam_projcet/share/cam_projcet/cmake/cam_projcetConfig-version.cmake /home/chris/school/ros_catkin/devel/share/cam_projcet/cmake/cam_projcetConfig-version.cmake
-/home/chris/school/ros_catkin/devel/.private/cam_projcet/lib/pkgconfig/cam_projcet.pc /home/chris/school/ros_catkin/devel/lib/pkgconfig/cam_projcet.pc

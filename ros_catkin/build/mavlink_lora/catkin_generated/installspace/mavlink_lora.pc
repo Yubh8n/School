@@ -1,8 +1,0 @@
-prefix=/home/chris/school/ros_catkin/install
-
-Name: mavlink_lora
-Description: Description of mavlink_lora
-Version: 1.0.0
-Cflags: -I/home/chris/school/ros_catkin/install/include
-Libs: -L/home/chris/school/ros_catkin/install/lib 
-Requires: roscpp std_msgs message_runtime

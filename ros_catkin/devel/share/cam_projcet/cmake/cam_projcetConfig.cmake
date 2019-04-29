@@ -1,1 +1,0 @@
-/home/chris/school/ros_catkin/devel/.private/cam_projcet/share/cam_projcet/cmake/cam_projcetConfig.cmake

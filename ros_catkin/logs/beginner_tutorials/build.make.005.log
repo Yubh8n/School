@@ -1,4 +1,0 @@
-[35m[1mScanning dependencies of target talker[0m
-[ 50%] [32mBuilding CXX object CMakeFiles/talker.dir/src/talker.cpp.o[0m
-[100%] [32m[1mLinking CXX executable /home/chris/school/ros_catkin/devel/.private/beginner_tutorials/lib/beginner_tutorials/talker[0m
-[100%] Built target talker

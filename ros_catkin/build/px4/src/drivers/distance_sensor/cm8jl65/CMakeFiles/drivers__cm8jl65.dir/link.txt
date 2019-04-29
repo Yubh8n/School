@@ -1,2 +1,0 @@
-/usr/bin/ar qc /home/chris/school/ros_catkin/devel/.private/px4/lib/libdrivers__cm8jl65.a  CMakeFiles/drivers__cm8jl65.dir/cm8jl65.cpp.o CMakeFiles/drivers__cm8jl65.dir/cm8jl65_parser.cpp.o
-/usr/bin/ranlib /home/chris/school/ros_catkin/devel/.private/px4/lib/libdrivers__cm8jl65.a

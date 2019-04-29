@@ -1,8 +1,0 @@
-prefix=/home/chris/school/ros_catkin/install
-
-Name: visualisation_markers
-Description: Description of visualisation_markers
-Version: 0.0.0
-Cflags: 
-Libs: -L/home/chris/school/ros_catkin/install/lib 
-Requires: 

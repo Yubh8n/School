@@ -1,8 +1,0 @@
-prefix=/home/chris/school/ros_catkin/install
-
-Name: mandatory_2
-Description: Description of mandatory_2
-Version: 0.0.0
-Cflags: -I/home/chris/school/ros_catkin/install/include
-Libs: -L/home/chris/school/ros_catkin/install/lib 
-Requires: rospy std_msgs

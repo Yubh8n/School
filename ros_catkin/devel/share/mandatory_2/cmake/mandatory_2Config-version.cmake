@@ -1,1 +1,0 @@
-/home/chris/school/ros_catkin/devel/.private/mandatory_2/share/mandatory_2/cmake/mandatory_2Config-version.cmake

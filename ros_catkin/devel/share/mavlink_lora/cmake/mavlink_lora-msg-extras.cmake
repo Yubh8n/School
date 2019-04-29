@@ -1,1 +1,0 @@
-/home/chris/school/ros_catkin/devel/.private/mavlink_lora/share/mavlink_lora/cmake/mavlink_lora-msg-extras.cmake

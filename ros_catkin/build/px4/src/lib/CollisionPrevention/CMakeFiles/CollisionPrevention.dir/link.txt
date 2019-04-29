@@ -1,2 +1,0 @@
-/usr/bin/ar qc /home/chris/school/ros_catkin/devel/.private/px4/lib/libCollisionPrevention.a  CMakeFiles/CollisionPrevention.dir/CollisionPrevention.cpp.o
-/usr/bin/ranlib /home/chris/school/ros_catkin/devel/.private/px4/lib/libCollisionPrevention.a

@@ -1,1 +1,0 @@
-/home/chris/school/ros_catkin/devel/.private/mav_msgs/share/roseus/ros/mav_msgs/msg/AttitudeThrust.l

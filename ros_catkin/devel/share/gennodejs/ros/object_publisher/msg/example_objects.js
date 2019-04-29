@@ -1,1 +1,0 @@
-/home/chris/school/ros_catkin/devel/.private/object_publisher/share/gennodejs/ros/object_publisher/msg/example_objects.js

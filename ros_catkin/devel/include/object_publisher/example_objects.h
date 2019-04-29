@@ -1,1 +1,0 @@
-/home/chris/school/ros_catkin/devel/.private/object_publisher/include/object_publisher/example_objects.h

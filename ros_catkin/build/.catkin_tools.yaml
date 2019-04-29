@@ -1,6 +1,0 @@
-devel_space: /home/chris/school/ros_catkin/devel
-install: false
-install_space: /home/chris/school/ros_catkin/install
-profile: default
-source_space: /home/chris/school/ros_catkin/src
-workspace: /home/chris/school/ros_catkin

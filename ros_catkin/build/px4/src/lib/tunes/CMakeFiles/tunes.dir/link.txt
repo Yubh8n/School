@@ -1,2 +1,0 @@
-/usr/bin/ar qc /home/chris/school/ros_catkin/devel/.private/px4/lib/libtunes.a  CMakeFiles/tunes.dir/tunes.cpp.o CMakeFiles/tunes.dir/default_tunes.cpp.o
-/usr/bin/ranlib /home/chris/school/ros_catkin/devel/.private/px4/lib/libtunes.a

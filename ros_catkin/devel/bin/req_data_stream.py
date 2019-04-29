@@ -1,1 +1,0 @@
-/home/chris/school/ros_catkin/devel/.private/mavlink_lora/bin/req_data_stream.py

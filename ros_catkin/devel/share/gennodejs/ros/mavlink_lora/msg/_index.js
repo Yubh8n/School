@@ -1,1 +1,0 @@
-/home/chris/school/ros_catkin/devel/.private/mavlink_lora/share/gennodejs/ros/mavlink_lora/msg/_index.js

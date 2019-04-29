@@ -1,2 +1,0 @@
-/usr/bin/ar qc /home/chris/school/ros_catkin/devel/.private/px4/lib/libdrivers_accelerometer.a  CMakeFiles/drivers_accelerometer.dir/PX4Accelerometer.cpp.o
-/usr/bin/ranlib /home/chris/school/ros_catkin/devel/.private/px4/lib/libdrivers_accelerometer.a
