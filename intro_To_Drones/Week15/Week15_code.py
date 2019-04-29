@@ -37,6 +37,9 @@ Revision
 
 from utm import utmconv
 from math import sqrt
+import matplotlib.pyplot as plt
+import numpy as np
+
 def import_file(filename):
     a = []
     inp = open(filename, "r")
@@ -52,19 +55,28 @@ def import_file(filename):
         long.append(float(a[i+1]))
 
     return lat, long
+
 def euclidean_distance(e1,n1,e2,n2):
-    return sqrt((e1-e2)**2+(n1-n2**2))
+    return sqrt((e1-e2)**2+(n1-n2)**2)
+
 lat, long = import_file("gps.txt")
 
 uc = utmconv()
 if len(lat) != len(long):
     print("Error!")
 else:
-    easting = []
-    northing = []
-    for i in range(0,len(lat)):
+    EM = []
+    for i in range(0,len(long)):
         (hemisphere, zone, letter, e, n) = uc.geodetic_to_utm (lat[i],long[i])
-        easting.append(e)
-        northing.append(n)
+        EM.append([e, n])
 
+A = np.array(EM)
 
+for i in range(1, len(EM)):
+    pass
+    #print euclidean_distance(EM[i][0],EM[i][1],EM[i-1][0],EM[i][1])
+
+plt.scatter(A[:,0], A[:,1])
+plt.legend()
+plt.gca().set_aspect('equal')
+plt.show()
